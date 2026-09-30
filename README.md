@@ -6,7 +6,7 @@ An end-to-end data analytics project focused on transforming raw car sales data 
 
 The project covers data preparation, SQL-based transformation, data validation, analytical modeling, and visualization.
 
-## 🛠️ Technologies
+##  Technologies
 
 * **PostgreSQL / SQL** — Data storage, cleaning, transformation and validation
 * **Power BI** — Dashboard development and visualization
